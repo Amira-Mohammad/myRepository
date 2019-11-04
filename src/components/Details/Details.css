@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+.Details{
+    height: 300px;
+    background-color: #000;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: bolder
+    
+}
+ul{
+    list-style: none
+}
+.writerName{
+    font-family: soleil,Arial,sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.Spcialization{
+    font-family: soleil,Arial,sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: gainsboro;
+}
+.hint{
+    font-family: soleil,Arial,sans-serif;
+    font-weight: bold;
+    font-size: 20px;    
+}
+.price{
+    font-family: soleil,Arial,sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    color: gainsboro;    
+}
